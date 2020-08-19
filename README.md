@@ -53,7 +53,7 @@ context of the COLD project (www.die-bonn.de/COLD/).
 
 Distributed under the CC BY-NC-SA 4.0 license. Please cite:
 
-* Zarah Weiss (2020): EXMARaLDA Converter for Time-Aligned Mulit-Layer Speech Transcriptions. 
+* Zarah Weiss (2020): EXMARaLDA Converter for Time-Aligned Mulit-Layer Speech Transcriptions. https://github.com/lingmod-tue/EXB-to-TSV-Converter/
 
 See ``LICENSE`` for more information.
 
